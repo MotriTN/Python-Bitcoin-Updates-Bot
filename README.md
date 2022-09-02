@@ -1,2 +1,2 @@
-# Python Bitcoin Updates Bot
+# Python Telegram Bot Bitcoin Updates Bot
  
